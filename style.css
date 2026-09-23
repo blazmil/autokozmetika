@@ -34,3 +34,15 @@ body {
     font-weight: 500;
     margin-left: 50px;
 }
+
+/* main-header */
+.mainHeader {
+    background-image: url(img/header.jpg);
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.mainHeader .row {
+    height: 90vh;
+}
