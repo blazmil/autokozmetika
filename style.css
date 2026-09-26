@@ -124,3 +124,19 @@ h2 {
 .shop .mt-5 a:hover {
     text-decoration: underline;
 }
+
+/* cta - call to action */
+
+.cta {
+    background-image: url(img/cta.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.cta .col-md-6:last-child {
+    background: var(--white);
+}
+
+.cta h2 {
+    font-size: 40px;
+}
